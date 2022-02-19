@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+
+# Builds
+out/
+target/
+
+# Tests
+src/test/
